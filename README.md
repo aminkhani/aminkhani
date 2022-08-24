@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Amin Khani</h2>
+<h2 align="center">Hi 👋🏻, I'm Amin Khani</h2>
 
 - 🔭 I’m currently working on **writing paper**
 
