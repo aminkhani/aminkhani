@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋🏻, I'm Amin Khani</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=300&width=435&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Amin+Khani;%E2%9D%A4Welcome+%26+Enjoy+Learning%E2%9D%A4)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **writing paper**
 
