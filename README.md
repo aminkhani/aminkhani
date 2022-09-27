@@ -41,5 +41,5 @@
 </div>
 <br><br><br><br><br><br><br><br>
 <div align="center" width="100%">
-<a align="left" href="https://github.com/aminkhani/Automata-Theory" title="Automata Theory Tutorial"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aminkhani&repo=Automata-Theory&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="left" href="https://github.com/aminkhani/Automata-Theory" title="Automata Theory Tutorial"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aminkhani&repo=Automata-Theory&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/aminkhani/OS" title="Operating System Tutorial"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aminkhani&repo=OS&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
